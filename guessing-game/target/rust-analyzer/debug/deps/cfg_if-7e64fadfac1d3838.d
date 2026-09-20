@@ -1,5 +1,0 @@
-/Volumes/Projects/Misc/learn/rpl/guessing-game/target/rust-analyzer/debug/deps/cfg_if-7e64fadfac1d3838.d: /Users/jimmykamau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cfg-if-1.0.4/src/lib.rs
-
-/Volumes/Projects/Misc/learn/rpl/guessing-game/target/rust-analyzer/debug/deps/libcfg_if-7e64fadfac1d3838.rmeta: /Users/jimmykamau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cfg-if-1.0.4/src/lib.rs
-
-/Users/jimmykamau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cfg-if-1.0.4/src/lib.rs:
